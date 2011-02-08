@@ -1,0 +1,16 @@
+<h1>LOGIN</h1>
+[% IF params.failed %]
+<div class='error'>
+FAILED LOGIN
+</div>
+[% END %]
+
+<form method='post' action='/login'>
+   <input type='text' value='username' name='user'>
+   <input type='password' name='pass'>
+   <input type='submit' value='login'>
+</form>
+
+[% USE Stash %]
+[% USE Dumper %]
+[% Dumper.dump( Stash.stash() ) %]

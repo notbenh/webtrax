@@ -1,0 +1,4 @@
+[9148]  core @0.000032> session_dir : /tmp/dancer-sessions in /usr/local/share/perl/5.10.1/Dancer/Session/YAML.pm l. 33
+[9751]  core @0.000043> session_dir : /tmp/dancer-sessions in /usr/local/share/perl/5.10.1/Dancer/Session/YAML.pm l. 33
+[9797]  core @0.000044> session_dir : /tmp/dancer-sessions in /usr/local/share/perl/5.10.1/Dancer/Session/YAML.pm l. 33
+[9956]  core @0.000033> session_dir : /tmp/dancer-sessions in /usr/local/share/perl/5.10.1/Dancer/Session/YAML.pm l. 33
